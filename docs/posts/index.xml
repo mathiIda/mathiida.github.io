@@ -2,26 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Maybe</title>
-    <link>https://example.org/posts/</link>
+    <link>https://mathiida.github.io/posts/</link>
     <description>Recent content in Posts on Maybe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jun 2022 00:44:56 +0800</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 01:06:40 +0800</lastBuildDate><atom:link href="https://mathiida.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo4</title>
+      <link>https://mathiida.github.io/posts/demo4/</link>
+      <pubDate>Wed, 01 Jun 2022 01:06:40 +0800</pubDate>
+      
+      <guid>https://mathiida.github.io/posts/demo4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo3</title>
+      <link>https://mathiida.github.io/posts/demo3/</link>
+      <pubDate>Wed, 01 Jun 2022 01:06:23 +0800</pubDate>
+      
+      <guid>https://mathiida.github.io/posts/demo3/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Demo2</title>
-      <link>https://example.org/posts/demo2/</link>
+      <link>https://mathiida.github.io/posts/demo2/</link>
       <pubDate>Wed, 01 Jun 2022 00:44:56 +0800</pubDate>
       
-      <guid>https://example.org/posts/demo2/</guid>
+      <guid>https://mathiida.github.io/posts/demo2/</guid>
       <description>这个主题也一般啊，功能也很少</description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://example.org/posts/demo/</link>
+      <link>https://mathiida.github.io/posts/demo/</link>
       <pubDate>Wed, 01 Jun 2022 00:33:00 +0800</pubDate>
       
-      <guid>https://example.org/posts/demo/</guid>
+      <guid>https://mathiida.github.io/posts/demo/</guid>
       <description>这是一篇 Markdown 测试文档 draft = false</description>
     </item>
     
