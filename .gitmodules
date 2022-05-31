@@ -1,0 +1,9 @@
+[submodule "themes/Coder"]
+	path = themes/Coder
+	url = git@github.com:luizdepra/hugo-coder.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = git@github.com:dillonzq/LoveIt.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = git@github.com:adityatelange/hugo-PaperMod.git
