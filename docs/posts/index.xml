@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Maybe</title>
+    <title>Posts on 喝蒙牛长大</title>
     <link>https://mathiida.github.io/posts/</link>
-    <description>Recent content in Posts on Maybe</description>
+    <description>Recent content in Posts on 喝蒙牛长大</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jun 2022 01:06:40 +0800</lastBuildDate><atom:link href="https://mathiida.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Demo4</title>
-      <link>https://mathiida.github.io/posts/demo4/</link>
-      <pubDate>Wed, 01 Jun 2022 01:06:40 +0800</pubDate>
-      
-      <guid>https://mathiida.github.io/posts/demo4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo3</title>
-      <link>https://mathiida.github.io/posts/demo3/</link>
-      <pubDate>Wed, 01 Jun 2022 01:06:23 +0800</pubDate>
-      
-      <guid>https://mathiida.github.io/posts/demo3/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 01 Jun 2022 00:44:56 +0800</lastBuildDate><atom:link href="https://mathiida.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo2</title>
       <link>https://mathiida.github.io/posts/demo2/</link>
@@ -40,7 +22,7 @@
       <pubDate>Wed, 01 Jun 2022 00:33:00 +0800</pubDate>
       
       <guid>https://mathiida.github.io/posts/demo/</guid>
-      <description>这是一篇 Markdown 测试文档 draft = false</description>
+      <description>这是一篇 Markdown 测试文档  测试列表 测试列表  </description>
     </item>
     
   </channel>
