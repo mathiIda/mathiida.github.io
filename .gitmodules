@@ -7,3 +7,6 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = git@github.com:adityatelange/hugo-PaperMod.git
+[submodule "themes/hugo-cat"]
+	path = themes/hugo-cat
+	url = git@github.com:httpsecure/hugo-cat.git
