@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>喝蒙牛长大</title>
+    <link>https://mathiida.github.io/</link>
+    <description>Recent content on 喝蒙牛长大</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Apr 2023 23:34:33 +0800</lastBuildDate><atom:link href="https://mathiida.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I am back</title>
+      <link>https://mathiida.github.io/posts/niumengliang/</link>
+      <pubDate>Tue, 18 Apr 2023 23:34:33 +0800</pubDate>
+      
+      <guid>https://mathiida.github.io/posts/niumengliang/</guid>
+      <description>i am back! i will update!</description>
+    </item>
+    
+    <item>
+      <title>Demo2</title>
+      <link>https://mathiida.github.io/posts/demo2/</link>
+      <pubDate>Wed, 01 Jun 2022 00:44:56 +0800</pubDate>
+      
+      <guid>https://mathiida.github.io/posts/demo2/</guid>
+      <description>这个主题也一般啊，功能也很少</description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://mathiida.github.io/posts/demo/</link>
+      <pubDate>Wed, 01 Jun 2022 00:33:00 +0800</pubDate>
+      
+      <guid>https://mathiida.github.io/posts/demo/</guid>
+      <description>这是一篇 Markdown 测试文档  测试列表 测试列表  </description>
+    </item>
+    
+  </channel>
+</rss>
